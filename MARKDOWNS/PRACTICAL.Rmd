@@ -1,0 +1,40 @@
+---
+title: "PRACTICAL"
+output:
+  html_document:
+    toc: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+```
+
+# "Dota is love, Dota is life, Nobody can escape Dota."
+
+I'm so good at Dota!
+
+```{r}
+dota2_id <- "1795653711"
+```
+
+Start today!
+
+```{r}
+dota2_url <- "https://www.dota2.com/"
+```
+
+Inspect your profile at [Link](https://www.opendota.com/)
+
+### All positions
+1. Carry
+2. Midlaner
+3. Offlaner
+4. Soft Support
+5. Hard Support
+
+### Goals
+- Get all the farm
+- Prevent the enemy team from getting any farm
+- Kill the enemy heroes
+- Hit the towers
+- Hit the throne
