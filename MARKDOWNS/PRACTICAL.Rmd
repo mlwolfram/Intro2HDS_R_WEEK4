@@ -1,7 +1,7 @@
 ---
 title: "PRACTICAL"
 output:
-  html_document:
+  pdf_document:
     toc: FALSE
 ---
 
@@ -11,13 +11,13 @@ knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
 
 # "Dota is love, Dota is life, Nobody can escape Dota."
 
-I'm so good at Dota!
+I'm so **good** at Dota!
 
 ```{r}
 dota2_id <- "1795653711"
 ```
 
-Start today!
+*Start* today!
 
 ```{r}
 dota2_url <- "https://www.dota2.com/"
